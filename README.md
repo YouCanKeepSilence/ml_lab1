@@ -5,4 +5,4 @@
 - [x] 3) Create neural network (1-2 hidden layers) and try to fit it on our dataset. Try different count of neurons and different value of l2 regularization param.
 - [x] 4) Use PCA method before pass data to the neural network (all other the same with lab #3)
 - [x] 5) Use Random Forest and GradientBoosted Trees. Try different count of trees
-- [x] 6) Use kmeans, DBSCAN, AffinityPropagation and (minimum) 2 different methods from sklearn
+- [ ] 6) Use kmeans, DBSCAN, AffinityPropagation and (minimum) 2 different methods from sklearn
